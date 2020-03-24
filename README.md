@@ -1,10 +1,10 @@
 # Capstone-Project
-Capstone Project 
-Problem Statement
+
+## Problem Statement
 Segment the audience of a content app based on its user’s propensity to watch a video in the next 2
 days
 
-Data 
+## Data 
 The directory contains event details for a Video Content app. As the user engages with the app, some of 
 his actions are recorded in detail. 
 For example, as soon as the user launches the app, an "AppLaunched" event is recorded which contains 
@@ -16,7 +16,7 @@ Many a time, app owners also engage with the customers via Push Notifications, S
 a user clicks on any such campaign, a UTM Visited campaign is recorded. The details of all these events 
 are provided below in the "Events" section. 
 
-Events 
+**Events**
 The directory contains details about the following 6 events. 
 1. AppLaunched 
 2. AppUninstalled 
@@ -46,7 +46,7 @@ d) VideoId : The video name
 2) Registered : 
 a) Status: The status of the registration 
 
-Evaluation Metrics: 
+# Evaluation Metrics: 
 1. F1-score: Minimum required F1-score of 0.5 
 2. Segments: Minimum of 2 segments and a maximum 4 segments can be created. 
 3. Features: The goal of a marketer is to not only identify users who are likely to convert but also 
