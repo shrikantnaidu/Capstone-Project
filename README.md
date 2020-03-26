@@ -24,6 +24,7 @@ The directory contains details about the following 6 events.
 4. VideoDetails 
 5. UTMVisited 
 6. Registered 
+
 Every event contains the following : 
 1. UserId: Every app user is assigned a unique identity which is stored in this field. 
 2. Date: The date on which this event was raised 
